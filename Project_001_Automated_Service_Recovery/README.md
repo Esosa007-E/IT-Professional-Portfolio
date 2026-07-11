@@ -71,3 +71,21 @@ I was responsible for:
 ## Note
 
 This repository contains a sanitized representation of the solution. Proprietary application names, service names, infrastructure details, and organization-specific information have been removed to protect operational and business-sensitive information.
+
+## Project Evidence
+
+### Task Scheduler Overview
+
+Screenshots/01_TaskScheduler_Overview.png
+
+### Automated Monitoring Schedule
+
+Screenshots/02_TaskScheduler_Triggers.png
+
+### Service Restoration
+
+Screenshots/03_Service_Restoration.png
+
+### Recovery Event
+
+Screenshots/04_Recovery_Event.png
